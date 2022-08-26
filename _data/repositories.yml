@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - nchahare
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - nchahare/nchahare.github.io
+  - nchahare/cv

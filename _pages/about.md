@@ -2,24 +2,35 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Mechanical Engineer and Science Enthusiast
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Barcelona, Spain</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+#### 👋 Hi there!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a mechanical engineer working with biological materials based in Barcelona, Spain. Throughout my research, I have been developing technologies to probe the mechanics of biology. In the future, I would like to explore emergent mechanical phenomena in cellular collectives.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Learn more about me by checking my CV here or blog here.
+
+If you are interested to get in touch, please feel free to find me on internet:
+
+[![](/assets/images/icons/mail-fill.png) Work Email](mailto:nchahare@ibecbarcelona.eu)    [![](/assets/images/icons/mail-line.png) Gmail](mailto:chaharenimesh@gmail.com)        [![](/assets/images/icons/twitter-line.png) Twitter](https://twitter.com/onenimesa/)
+
+or in real life!
+
+> Nimesh R. Chahare, PhD Student
+>
+> Integrative Cell and Tissue Dynamics  
+> Institute for Bioengineering of Catalonia (IBEC)  
+> C/ Baldiri Reixac 10-12 (Edifici Helix)  
+> 08028 Barcelona, Spain  
