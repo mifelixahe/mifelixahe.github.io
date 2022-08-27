@@ -1,18 +1,13 @@
 ---
 layout: page
-title: cv
+title: CV
 permalink: /resume/
 nav: true
 nav_order: 4
-
-sidebar:
-  - title: "Nimesh Chahare"
-
-toc: true
-toc_label: "Contents"
-toc_sticky: true
-
 ---
+
+# Nimesh Chahare
+
 _I am a mechanical engineer working with biological materials based in Barcelona, Spain._ Throughout my research, I have been developing technologies to probe the mechanics of biology. In the future, I would like to explore emergent mechanical phenomena in cellular collectives.
 
 

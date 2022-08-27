@@ -1,97 +1,103 @@
-- title: General Information
-  type: map
+- title: Nimesh R. Chahare
+  type: list
   contents:
-    - name: Full Name
-      value: Nimesh Ramesh C Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - Institute for Bioengineering of Catalonia<br> Barcelona, Spain
+
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Bioengineering
+      items:
+        - Mechanobiology, Tissue engineering, and Lab-on-the-chip
+    - title: Mechanics
+      items:
+        - Continuum mechanics, Material testing, and Biophysics
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Applied Mathematics
+      institution: Universitat Politècnica de Catalunya, Barcelona, Spain
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Mechanics of epithelial layers subjected to controlled pressure and tension
+        - title: Supervised by
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Prof. Xavier Trepat
+            - Prof. Marino Arroyo
+    - title: M.E. in Mechanical Engineering
+      institution: Indian Institute of Science, Bengaluru, India
+      year: 2016
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
+        - Design and fabrication of miniature shear device for cell mechanics
+        - title: Supervised by
+          contents:
+            - Prof. Namrata Gundiah
+    - title: B.Tech. in Mechanical Engineering
+      institution: Visvesvaraya National Institute of Technology, Nagpur, India
+      year: 2014
+      description:
+        - Design and Fabrication of a Hirda (Terminalia chebula) Cracking Machine
+        - title: Supervised by
+          contents:
+            - Prof. Pramod Padole
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Ph.D. student
+      institution: Institute for Bioengineering of Catalonia, and UPC
+      year: 2017 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Mechanics of epithelial layers subjected to controlled pressure and tension
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Designed a microfluidic chip to control epithelial shapes and pressure.
+            - Performed rheological study with inflated epithelial monolayers to understand actomyosin cortex remodelling.
+            - Discovered a new method to generate epithelial folds via mechanical phenomena of buckling.
+        - title: Computational tool for analysing nuclear to cytoplasmic transport
+          contents:
+            - Working in collaboration with Prof. Pere Roca-Cusachs and Ion Andreu, developed a MATLAB script to calculate import and export rate of mechanosensitive protien.
+            - Developed a fitting algorithm to elucidate protein mobility with Fluorescence recovery after photobleaching (FRAP).
+            - Utilized an elegant system of differential equations to analyse data from Fluorescence Loss in Photobleaching (FLIP).
+        - title: Analysis of force loading rates associated with cell mechanosensing
+          contents:
+            - Working in collaboration with Prof. Pere Roca-Cusachs and Victor Gonzalez-Tarrago, developed a MATLAB script for analysing atomic force microscopy data from JPK software raw data.
+            - Analysed timeseries data from AFM experiments to determine detachment force.
+            - Analysed optical tweezer experiments by fiting curves piecewise linearly to calculate stiffness of the cells.
+    - title: Project Associate
+      institution: Biomechanics Lab, Indian Institute of Science
+      year: 2016 - 2017
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - title: Developing constitutive model of Fiber Reinforced Elastomers (FRE)
+          contents:
+            - Computed stresses and strains from uniaxial and biaxial stretching experiments of Polydimethylsiloxane Fibre Reinforced Elastomer.
+            - Modeled experimental results using hyperelastic constitutive equation.
+            - Performed constrained optimization using custom built MATLAB program for fitting the experimental results.
+    - title: Masters student
+      institution: Mechanical Engineering, Indian Institute of Science
+      year: 2014 - 2016
       description:
+        - title: Design and fabrication of miniature shear device for cell mechanics
+          contents:
+            - Designed a cost effective system capable of applying uniform shear on culture cells along with real time visualization using fluorescence microscopy.
+            - Implemented trajectory generation filter based control system in the shear device electronics using MATLAB and Arduino programming.
+            - Calibrated the device using fluorescence microscopy and traction force microscopy to test for uniform shear flow conditions.
+        - title: Finite element analysis of coffee white stem borer (CWSB) mandible
+          contents:
+            - Created geometry of insect mandible from tomography data using image processing and CAD modeling.
+            - Stress and displacement distribution on mandible during wood boring were computed using commercial FEA package, ABAQUS.
+            - Stresses on the mandible were used to examine the morphological adaptations that provide distinct mechanical advantages to the insect for cutting purposes.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2016
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Received second prize for Best paper presentation in Association for Machines and Mechanisms’ Industrial Problems on Machines and Mechanisms (IPRoMM), Nagpur, India
+    - year: 2014
       items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
+        - All India Rank 362 (99.8 percentile) out of 185,578 in Graduate Aptitude Test in Engineering
+    - year: 2013
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Bagged 22nd position in national level presentation competition for future transportation solution, TATA MOTORS’ MIND ROVER.
