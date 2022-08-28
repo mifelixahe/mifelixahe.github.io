@@ -109,6 +109,22 @@
             - Stress and displacement distribution on mandible during wood boring were computed using commercial FEA package, ABAQUS.
             - Stresses on the mandible were used to examine the morphological adaptations that provide distinct mechanical advantages to the insect for cutting purposes.
 
+- title: Conferences
+  type: time_table
+  contents:
+    - year: 2022
+      items:
+        - Chahare, N. R., Ouzeri, A., Golde, T., Wilson, T. Arroyo, M., and Trepat, X. “Shaping epithelia through buckling in pressure-controlled tissue.” World congress of biomechanics, Taipei, Taiwan. July 10-14, 2022
+        - Chahare, N. R., Ouzeri, A., Golde, T., Wilson, T. Arroyo, M., and Trepat, X. “Synthetic epithelial morphogenesis through controlled stretching and buckling.” EMBL-IBEC Conference, Engineering multicellular systems, Barcelona, Spain. June 08-10, 2022
+        - Chahare, N. R., Ouzeri, A., Golde, T., Wilson, T. Arroyo, M., and Trepat, X. “Synthetic epithelial morphogenesis through controlled stretching and buckling.” EMBO-EMBL Symposium, Mechanobiology in development and disease, Heidelberg, Germany. May 15–18, 2022
+    - year: 2017
+      items:
+        - Chatterjee, A., Chahare, N. R., Kulkarni, A., Kondaiah, P., and Gundiah, N. “Design of adynamic cell stretcher to quantify responses of fibroblasts to cyclic stretching and TGF-β.”5th International Conference on Computational and Mathematical Biomedical Engineering,Pittsburgh, Pennsylvania, USA. April 10–12, 2017
+    - year: 2016
+      items:
+        - Satone, V., Chahare, N. R., and Padole, P. “Design of pedal operated behda crackingmachine using flywheel motor.” Association for Machines and Mechanisms’ IndustrialProblems on Machines and Mechanisms (IPRoMM), Nagpur, India. Dec 22–23, 2016
+        - Abhijith, K. G., Chahare, N. R., Kundanati, L., and Gundiah, N. “Mechanics of the Cuticleof Wood Boring Insects.” Structural Integrity Conference and Exhibition (SICE), Bengaluru,India. July 4–6, 2016
+
 - title: Teaching experience
   type: time_table
   contents:
@@ -171,3 +187,12 @@
         - Cultural committee member, organizing cultural programmes in Marathi mandal IISc 2015.
         - Active member of Social Welfare Society at VNIT 2014.
 
+- title: Languages
+  type: nested_list
+  contents:
+    - title: Native
+      items:
+        - Marathi, Hindi, and English
+    - title: Basic
+      items:
+        - Catalan and Spanish
