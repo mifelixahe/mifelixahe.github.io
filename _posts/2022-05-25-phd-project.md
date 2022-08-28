@@ -4,6 +4,8 @@ date: 2022-05-25
 author: Nimesh Chahare
 excerpt: Description of my PhD project
 tags: [work]
+layout: post
+
 ---
 
 This is my main PhD project. I started with Prof. Xavier Trepat, an experimentalist, and Prof. Marino Arroyo, a mathematician. I chose to work with these people to combine my desire to work at the interface of experimentation and theory. I am trained in mechanics of materials; and the materials like Epithelial sheets fascinated me endlessly.
