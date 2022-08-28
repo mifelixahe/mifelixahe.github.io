@@ -2,12 +2,14 @@
 title: "Making a webpage using Jekyll"
 author: Nimesh Chahare
 date: 2022-08-15
-tags: 
+tags:
     - jekyll
     - coding
+layout: post
+
 ---
 
-One of the best things I found on the internet. Basically I was browsing my twitter feed and some random person said "you need to have a personal website. Use this webinar to make it with jekyll." At this point of time I already had this webpage with my CV. But I realized that I can't really have nice things like navigation bar or side bar or any other bar in my website. 
+One of the best things I found on the internet. Basically I was browsing my twitter feed and some random person said "you need to have a personal website. Use this webinar to make it with jekyll." At this point of time I already had this webpage with my CV. But I realized that I can't really have nice things like navigation bar or side bar or any other bar in my website.
 
 I even had hard time putting the images in. This was all because my reluctance to install jekyll and rubygems on my computer. I was using github site directly in my browser. So I took a look at this [video](https://youtu.be/7SBXl94xNl8). It finally looked easy and doable. So I decided to give it another shot.
 
@@ -36,7 +38,7 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Last two commands will be used all the time. 
+Last two commands will be used all the time.
 
 I was able to edit and make pages all along by following these links:
 
@@ -47,7 +49,7 @@ GitHub repo: [https://github.com/laurburke2/laurbur...](https://github.com/laurb
 Finally following are the commands for the git.
 
 ```git
-git remote add origin 
+git remote add origin
 https://<PERSONAL_ACCESS_TOKEN>@github.com/<username>/<username>.github.io.git
 
 git add .
@@ -59,4 +61,3 @@ git push origin master
 
 
 My final webpage looks like [this](nchahare.github.io)
-

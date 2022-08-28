@@ -84,7 +84,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  Email's the best way to reach me.
+  The easiest way to contact me is via email.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -108,11 +108,6 @@ permalink: /blog/:year/:title/
 # Pagination
 pagination:
   enabled: true
-
-# Table of content
-toc:
-  min_level: 1 # default: 1
-  max_level: 2 # default: 6
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -215,7 +210,7 @@ display_tags: #['formatting', 'images', 'links', 'math', 'code'] # this tags wil
 scholar:
 
   last_name: Chahare
-  first_name: [Nimesh, R.]
+  first_name: [Nimesh R,]
 
   style: apa
   locale: en

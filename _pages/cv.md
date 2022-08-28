@@ -2,8 +2,8 @@
 layout: cv
 permalink: /cv/
 title: cv
+description: Highlights of my academic career
 nav: true
-nav_order: 4
+nav_order: 2
 cv_pdf: cv_2022mar.pdf
 ---
-s
