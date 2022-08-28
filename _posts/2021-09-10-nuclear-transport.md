@@ -4,8 +4,7 @@ author: Nimesh Chahare
 excerpt: Description of my collaboration with Ion Andreu
 date: 2021-09-10
 tags: [work]
-sidebar:
-  - title: "Nimesh Chahare"
+layout: post
 ---
 **Incomplete**
 
