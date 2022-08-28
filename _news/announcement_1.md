@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-07-11 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Presented my PhD work in a short talk at the World congress of biomechanics, Taipei, Taiwan.
