@@ -2,8 +2,8 @@
 layout: page
 title: CV
 permalink: /resume/
-nav: true
-nav_order: 4
+nav: false
+nav_order: 10
 ---
 
 # Nimesh Chahare
