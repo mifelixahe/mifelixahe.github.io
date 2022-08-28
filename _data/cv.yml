@@ -109,17 +109,65 @@
             - Stress and displacement distribution on mandible during wood boring were computed using commercial FEA package, ABAQUS.
             - Stresses on the mandible were used to examine the morphological adaptations that provide distinct mechanical advantages to the insect for cutting purposes.
 
+- title: Teaching experience
+  type: time_table
+  contents:
+    - year: 2021
+      items:
+        - Mentored Gavin McQuarrie, student from University of Glasgow, jointly with Anabel-lise Le Roux to calibrate and develop stretch system.
+        - Undertook Alexandre Garcia-Duran as summer student in University of Barcelona Intership project of characterizing stiffness of PDMS and developing a Microfluidic device for stretching cells/tissues.
+    - year: 2017
+      items:
+        - Trained two high school students in a project related to 3D epithelia at Institute for Bioengineering of Catalonia with Treball de Recerca program.
 
+
+- title: Technical skills
+  type: nested_list
+  contents:
+    - title: Cell Biology and Microscopy
+      items:
+        - Spinning disk confocal microscopy, Airy Scan Confocal microscopy, light and fluorescence microscopy. Light sheet microscopy.
+        - Photobleaching techniques in Fluorescence recovery after Photobleaching (FRAP) and FluorescenceLoss in Photobleaching (FLIP).
+        - Cell culture, Protein micropatterning techniques, and Elastomer preparation, Hydrogel preparation.
+    - title: Programming
+      items:
+        - MATLAB, R, Python, Maple, Wolfram Mathematica, HTML, LATEX, Markdown and Arduino IDE.
+    - title: Design and Analysis
+      items:
+        - SolidWorks, Inkscape, Adobe Illustrator, SolidEdge, Cinema4D and Keyshot.
+        - ImageJ, AMIRA, ABAQUS, Hypermesh, and COMSOL.
+    - title: Mechanical and Material Testing
+      items:
+        - Dynamic mechanical spectroscopy (DMA, TA Instruments), microindentation (CSM Micro-HardnessTester), 3D printing, and bioreactors (planar biaxial stretcher and shear device).
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2016
       items:
+        - International travel grant for attending winter school on Quantitative Systems Biology at International Centre for Theoretical Sciences (ICTS), Bengaluru, India 2019.
+    - year: 2016
+      items:
         - Received second prize for Best paper presentation in Association for Machines and Mechanisms’ Industrial Problems on Machines and Mechanisms (IPRoMM), Nagpur, India
     - year: 2014
       items:
+        - Awarded scholarship by Ministry of Human resource and development, India for M.E. 2014-16.
         - All India Rank 362 (99.8 percentile) out of 185,578 in Graduate Aptitude Test in Engineering
     - year: 2013
       items:
         - Bagged 22nd position in national level presentation competition for future transportation solution, TATA MOTORS’ MIND ROVER.
+        
+- title: Activities
+  type: nested_list
+  contents:
+    - title: Responsibilities
+      items:
+        - Managed data servers (synology and magnetic tape drive system) in the Prof. Trepat’s lab.
+        - Member of PhD committee at IBEC.
+    - title: Outreach
+      items:
+        - Active member of Science day events, planning committee for communicating popular science 2018–.
+        - Volunteered at Structural Integrity Conference and Exhibition (SICE) 2016.
+        - Cultural committee member, organizing cultural programmes in Marathi mandal IISc 2015.
+        - Active member of Social Welfare Society at VNIT 2014.
+
