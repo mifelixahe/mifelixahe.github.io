@@ -4,6 +4,8 @@ author: Nimesh Chahare
 date: 2021-05-21
 excerpt: A brief look at vaccine development and research.
 tags: [article]
+layout: post
+
 ---
 
 ## A brief look at vaccine development and research.
