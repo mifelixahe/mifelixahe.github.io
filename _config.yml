@@ -210,7 +210,7 @@ display_tags: #['formatting', 'images', 'links', 'math', 'code'] # this tags wil
 scholar:
 
   last_name: Chahare
-  first_name: [Nimesh R,]
+  first_name: [Nimesh R.,]
 
   style: apa
   locale: en
